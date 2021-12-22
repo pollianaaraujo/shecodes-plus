@@ -1,0 +1,97 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+.container-fluid {
+  margin: 0 40px;
+}
+
+.logo {
+  font-size: 18px;
+}
+
+.button-geolocation {
+  margin-left: 10px;
+}
+
+.page-header {
+  text-align: center;
+  line-height: 1.5em;
+  margin: 50px 0;
+}
+
+.city-name {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+.current-day {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.weather-information {
+  font-weight: 400;
+  text-align: center;
+}
+
+.temperature {
+  font-size: 96px;
+}
+
+.scale-temperature {
+  font-size: 24px;
+}
+
+.weather-picture {
+  display: block;
+  width: 100%;
+}
+
+.weather-details {
+  text-align: left;
+  list-style: none;
+  font-size: 16px;
+}
+
+.weather-icon {
+  padding-right: 5px;
+}
+
+.forecast {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.5em;
+  margin-top: 25px;
+}
+
+.page-footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.weather-forecast {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.weather-forecast-icon {
+  font-size: 40px;
+  padding-top: 15px;
+}
+
+.day-of-week {
+  font-size: 30px;
+  font-weight: 400;
+  padding-bottom: 5px;
+}
+
+.minimum-and-maximum {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.weather-labels {
+  font-size: 14px;
+  font-weight: 300;
+}
